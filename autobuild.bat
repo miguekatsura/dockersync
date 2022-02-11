@@ -1,0 +1,1 @@
+docker build -t dunedein666/github_sync .
